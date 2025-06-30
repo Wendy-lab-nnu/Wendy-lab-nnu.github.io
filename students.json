@@ -1,0 +1,69 @@
+[
+  {
+    "name_zh": "辛利柯",
+    "name_en": "Like Xin",
+    "photo": "img/xinlike.png",
+    "type": "Ph.D Student",
+    "year": "2022 -"
+  },
+
+  {
+    "name_zh": "张毅文",
+    "name_en": "Yiwen Zhang",
+    "photo": "img/zyw.jpg",
+    "type": "M.Eng Student",
+    "year": "2023 -"
+  },
+  {
+    "name_zh": "施小龙",
+    "name_en": "Xiaolong Shi",
+    "photo": "img/sxl.jpg",
+    "type": "M.Eng Student",
+    "year": "2023 -"
+  },
+  {
+    "name_zh": "彭圣涛",
+    "name_en": "Shengtao Peng",
+    "photo": "img/pst.jpg",
+    "type": "M.Eng Student",
+    "year": "2023 -"
+  },
+
+  
+  {
+    "name_zh": "谢雨荃",
+    "name_en": "Yuquan Xie",
+    "photo": "img/xyq.png",
+    "type": "M.Eng Student",
+    "year": "2024 -"
+  },
+  {
+    "name_zh": "李炳飞",
+    "name_en": "Bingfei Li",
+    "photo": "img/libingfei.png",
+    "type": "M.Eng Student",
+    "year": "2024 -"
+  },
+  {
+    "name_zh": "杨婷",
+    "name_en": "Ting Yang",
+    "photo": "img/yt.jpg",
+    "type": "M.Eng Student",
+    "year": "2024 -"
+  },
+
+  {
+    "name_zh": "张洁",
+    "name_en": "Jie Zhang",
+    "photo": "img/zj.png",
+    "type": "M.Eng Student",
+    "year": "2025 -"
+  },
+  {
+    "name_zh": "王薇",
+    "name_en": "Wei Wang",
+    "photo": "img/ww.png",
+    "type": "M.Eng Student",
+    "year": "2025 -"
+  }
+]
