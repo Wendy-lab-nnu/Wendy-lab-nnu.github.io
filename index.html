@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Wendy's Lab - Nanjing Normal University</title>
+    <title>MMCC Lab - Nanjing Normal University</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -31,6 +31,27 @@
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
 </head>
+
+<script>
+fetch('news.json')
+  .then(response => response.json())
+  .then(data => {
+    const container = document.getElementById('news-section');
+    data.forEach((item, index) => {
+      const delay = 0.1 + (index % 3) * 0.2;
+      const html = `
+        <div class="col-md-6">
+          <div class="card h-100 shadow-sm border-0 wow fadeIn" data-wow-delay="${delay}s">
+            <div class="card-body">
+              <h5 class="card-title">${item.date}</h5>
+              <p class="card-text">${item.content}</p>
+            </div>
+          </div>
+        </div>`;
+      container.innerHTML += html;
+    });
+  });
+</script>
 
 <script>
 fetch('students.json')
@@ -136,7 +157,7 @@ fetch('publications.json')
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-dark p-0">
                 <a href="index.html" class="navbar-brand">
-                    <h1 class="text-white">Wendy's <span class="text-info">LAB</span></h1>
+                    <h1 class="text-white">MMCC <span class="text-info">LAB</span></h1>
                 </a>
                 <button type="button" class="navbar-toggler ms-auto me-0" data-bs-toggle="collapse"
                     data-bs-target="#navbarCollapse">
@@ -145,6 +166,7 @@ fetch('publications.json')
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto">
                         <a href="index.html" class="nav-item nav-link active">Home</a>
+                        <a href="mentor.html" class="nav-item nav-link">Mentor</a>
                         <a href="#student" class="nav-item nav-link">Students</a>
                         <a href="#publications" class="nav-item nav-link">Publications</a>
                         <a href="#contact" class="nav-item nav-link">Contact</a>
@@ -158,20 +180,49 @@ fetch('publications.json')
     <!-- Navbar End -->
 
 
-    <!-- Hero Start -->
-    <div class="container-fluid pt-5 bg-primary hero-header mb-5">
-        <div class="container pt-5">
-            <div class="row g-5 pt-5">
-                <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">Wendy's Lab</h1>
-                    <p class="text-white mb-4 animated slideInRight">
-                        NANJING NORMAL UNIVERSITY, CHINA
-                    </p>
-                 </div>
+<!-- Hero Start -->
+<!-- <div class="container-fluid pt-5 bg-primary hero-header mb-5">
+    <div class="container pt-5">
+        <div class="row g-5 pt-5">
+            <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
+                <h1 class="display-4 text-white mb-4 animated slideInRight">MMCC <span class="text-info">LAB</span></h1>
+                <p class="text-white mb-4 animated slideInRight">
+                    NANJING NORMAL UNIVERSITY, CHINA
+                </p>
+                <p class="text-white mb-4 animated slideInRight">
+                    We are the MMCC Lab at Nanjing Normal University, dedicated to research in multimodal modeling, meta-learning, cross-domain adaptation, and intelligent educational data mining. Our mission is to develop robust and interpretable AI methods that address real-world challenges.
+                </p>
             </div>
         </div>
     </div>
-    <!-- Hero End -->
+</div> -->
+<!-- Hero End -->
+
+
+<!-- Hero Start -->
+<div class="container-fluid pt-5 bg-primary hero-header mb-5">
+    <div class="container pt-5">
+        <div class="row g-5 pt-5">
+
+        <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
+            <h1 class="display-4 text-white mb-4 animated slideInRight">
+            MMCC <span class="text-info">LAB</span>
+            </h1>
+            <p class="text-white mb-4 animated slideInRight">
+            NANJING NORMAL UNIVERSITY, CHINA
+            </p>
+        </div>
+
+        <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
+            <p class="text-white mb-4 animated slideInRight">
+            We are MMCC LAB from the School of Computer and Electronic 
+                        Information at Nanjing Normal University. Our main research areas include multimodal 
+                        meta-learning, cross-domain transfer learning, incomplete multi-view learning, and 
+                        intelligent educational data analysis. We welcome interested students to contact us.</p>
+        </div>
+        </div>
+     </div>
+</div>
 
 
 
@@ -190,7 +241,7 @@ fetch('publications.json')
                     <p class="mb-4">杨琬琪，南京师范大学计算机与电子信息学院/人工智能学院副教授，分管科研副院长，学院青年教师工作委员会主任。南京大学计算机博士，研究方向是机器学习与深度学习，近年来主要研究多模态学习、不配对多视图学习、小样本域适应以及智能教育数据分析；主持国家自然科学基金项目3项（面上2项、青年1项）、江苏省自然科学基金面上项目1项，在重要国际期刊（如IEEE TNNLS、IEEE TCYB、IEEE JBHI等）和重要学术会议（如IJCAI、ACM MM、MICCAI等）上发表论文40余篇，成果得到10余位IEEE Fellow的引用和正面评价；2022年江苏省高校“青蓝工程”优秀青年骨干教师培养对象，2022年国家级一流本科课程和2021年首批省级一流本科课程《数据结构》课程团队成员，2019年省高校优秀科技创新团队骨干成员，2018年获江苏省自然科学二等奖，2023-2024年度被评为南京师范大学巾帼建功先进个人；曾任国际期刊JIFS编委，国际会议ACCV2022出版主席，CCF BigData2023大数据学术会议出版主席；任中国计算机学会人工智能与模式识别专委会执行委员，中国人工智能学会智能服务专委会委员、机器学习专委会通讯委员，中国图象图形学学会女科技工作委员会委员，江苏省人工智能学会人工智能教育专委会秘书长、机器学习专委会常务委员。</p>
 
                     <div class="d-flex align-items-center mt-4">
-                        <a class="btn btn-primary rounded-pill px-4 me-3" href="https://cs.nju.edu.cn/rl/people/yangwq/index.htm">Read More</a>
+                        <a class="btn btn-primary rounded-pill px-4 me-3" href="mentor.html">Read More</a>
                     </div>
                 </div>
             </div>
@@ -198,37 +249,14 @@ fetch('publications.json')
     </div>
     <!-- About End -->
 
-    <!-- Major Grants Start -->
-    <div class="container-fluid py-5">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
-                    <h1 class="mb-4">主要项目</h1>
-                    <ul class="fs-5">
-                        <li>
-                            国家自然科学基金面上项目：持续学习方法及其在多模态领域特定模型中的应用（项目号：62476136），2025年1月 – 2028年12月，负责人
-                        </li>
-                        <li>
-                            国家自然科学基金面上项目，2023年 – 2026年，负责人
-                        </li>
-                        <li>
-                            国家自然科学基金青年项目，2018年 – 2020年，负责人
-                        </li>
-                        <li>
-                            江苏省自然科学基金面上项目，2021年 – 2024年，负责人
-                        </li>
-                        <li>
-                            省级重点教学改革项目，2022年 – 2023年，负责人
-                        </li>
-                        <li>
-                            产学合作教育大数据分析项目，2020年 – 2022年，负责人
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+    <!-- News Start -->
+    <div class="container py-5" id="news">
+    <h1 class="m-3">News</h1>
+    <div class="row g-4" id="news-section">
+        <!-- JavaScript will inject news cards here -->
     </div>
-    <!-- Major Grants End -->
+    </div>
+    <!-- News End -->
 
 
     <!-- Team Start -->
@@ -252,7 +280,7 @@ fetch('publications.json')
     </div>
     </div>
     <!-- Publication End -->
-
+获奖
 <div class="container-xxl py-5" id="photos-section">
     <!-- 这里用JS动态填充内容 -->
 </div>
@@ -298,9 +326,9 @@ fetch('publications.json')
             <div class="row g-5">
                 <div class="col-md-12 col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <a href="index.html" class="d-inline-block mb-3">
-                        <h1 class="text-white">Wendy's <span class="text-info">LAB</span></h1>
+                        <h1 class="text-white">MMCC <span class="text-info">LAB</span></h1>
                     </a>
-                    <p class="mb-0">We are Wendy’s Lab from the School of Computer and Electronic 
+                    <p class="mb-0">We are MMCC LAB from the School of Computer and Electronic 
                         Information at Nanjing Normal University. Our main research areas include multimodal 
                         meta-learning, cross-domain transfer learning, incomplete multi-view learning, and 
                         intelligent educational data analysis. We welcome interested students to contact us.</p>
