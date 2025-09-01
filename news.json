@@ -1,14 +1,19 @@
 [
   {
-    "date": "[2025.07] MMCC网页测试中",
-    "content": "这是一条用来测试的新闻，这是一条用来测试的新闻，这是一条用来测试的新闻，这是一条用来测试的新闻，这是一条用来测试的新闻"
+    "date": "[2025.06] 论文接收",
+    "content": "论文 Unpaired Multi-view Clustering via Reliable View Guidance 被 IEEE Transactions on Neural Networks and Learning Systems 正式接受"
   },
-  {
-    "date": "[2025.06] ABCD 论文接收",
-    "content": "论文《ABCDEFG》被IEEE ABCD正式接受"
-  },
-  {
+    {
     "date": "[2025.05] 毕业季祝贺",
-    "content": "祝贺2025届毕业生顺利毕业！MMCC实验室为你们感到骄傲！"
+    "content": "祝贺2025届毕业生：韦锦宇、王浩然、陈颖顺利毕业！实验室为你们感到骄傲！"
+  },
+  {
+    "date": "[2024.10] 论文接收",
+    "content": "论文 Unpaired Multi-view Clustering via Reliable View Guidance 被 IEEE Transactions on Neural Networks and Learning Systems 正式接受"
+  },
+  {
+    "date": "[2023.10] 论文接收",
+    "content": "论文 Selective Contrastive Learning for Unpaired Multi-view Clustering 被IEEE Transactions on Neural Networks and Learning Systems 正式接受"
   }
+
 ]
