@@ -1,7 +1,7 @@
 [
   {
     "authors": "Wanqi Yang, Haoran Wang, Wei Wang, Lei Wang, Ge Song, Ming Yang, Yang Gao",
-    "title": "Enduring and Efficient Meta Prompt Learning Framework for Few-Shot Unsupervised Domain Adaptation",
+    "title": "E2MPL: An Enduring and Efficient Meta Prompt Learning Framework for Few-Shot Unsupervised Domain Adaptation",
     "journal": "IEEE Transactions on Image Processing (TIP), 2025, 34: 8656 - 8671.",
     "year": "2025",
     "url": "https://arxiv.org/abs/2407.04066"
@@ -42,7 +42,7 @@
     "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10745770"
   },
   {
-    "authors": "Shaokang Dong, Chao Li, Shangdong Yang, Hongye Cao, Wanqi Yang*, Yang Gao, et al.",
+    "authors": "Shaokang Dong, Chao Li, Shangdong Yang, Hongye Cao, Wanqi Yang*, Yang Gao",
     "title": "Beyond Mandatory Federations: Balancing Egoism, Utilitarianism and Egalitarianism in Mixed-Motive Games",
     "journal": "AAAI 2025",
     "year": "2025",
