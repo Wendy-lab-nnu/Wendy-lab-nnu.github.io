@@ -1,20 +1,41 @@
 [
   {
-    "authors": "Like Xin, Wanqi Yang, Lei Wang, Ming Yang",
+    "authors": "Wanqi Yang, Haoran Wang, Wei Wang, Lei Wang, Ge Song, Ming Yang, Yang Gao",
+    "title": "Enduring and Efficient Meta Prompt Learning Framework for Few-Shot Unsupervised Domain Adaptation",
+    "journal": "IEEE Transactions on Image Processing (TIP), 2025, 34: 8656 - 8671.",
+    "year": "2025",
+    "url": "https://arxiv.org/abs/2407.04066"
+  },
+  {
+    "authors": "Like Xin, Wanqi Yang*, Lei Wang, Ming Yang*",
+    "title": "Global-and-local guidance with synthesized view for unpaired multi-view clustering",
+    "journal": "Information Processing and Management, 2026: 104502.",
+    "year": "2026",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0306457325004431?via%3Dihub"
+  },
+  {
+    "authors": "Shaokang Dong, Chao Li, Shangdong Yang, Hongye Cao, Wanqi Yang*, Yang Gao",
+    "title": "A Unified and Efficient Training Framework for Open-Ended Non-Transitive Games",
+    "journal": "Neural Networks, 2026: 108248.",
+    "year": "2026",
+    "url": "https://arxiv.org/pdf/2407.01247"
+  },
+  {
+    "authors": "Like Xin, Wanqi Yang*, Lei Wang, Ming Yang",
     "title": "Multi-level Reliable Guidance for Unpaired Multi-view Clustering",
-    "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+    "journal": "IEEE Transactions on Neural Networks and Learning Systems; 2025, 36(10):18968-18982.",
     "year": "2025",
     "url": "https://arxiv.org/pdf/2407.01247"
   },
   {
-    "authors": "Like Xin, Wanqi Yang, Lei Wang, Ming Yang",
+    "authors": "Like Xin, Wanqi Yang*, Lei Wang, Ming Yang*",
     "title": "Selective Contrastive Learning for Unpaired Multi-View Clustering",
     "journal": "IEEE Transactions on Neural Networks and Learning Systems, 2025, 36(1): 1749–1763",
     "year": "2025",
     "url": "https://ieeexplore.ieee.org/document/10327758"
   },
   {
-    "authors": "Like Xin, Wanqi Yang, Lei Wang, Ming Yang",
+    "authors": "Like Xin, Wanqi Yang*, Lei Wang, Ming Yang*",
     "title": "Unpaired Multiview Clustering via Reliable View Guidance",
     "journal": "IEEE Transactions on Neural Networks and Learning Systems, 2025, 36(6): 11443–11455",
     "year": "2025",
