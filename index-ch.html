@@ -124,8 +124,8 @@ fetch('publications.json')
     const container = document.getElementById("publication-list");
     data.forEach(pub => {
       const titleLine = pub.url
-        ? `<a href="${pub.url}" target="_blank" style="font-weight:600; font-size: 1.1rem;">${pub.title}</a>`
-        : `<span style="font-weight:600; color: black; font-size: 1.1rem;">${pub.title}</span>`;
+        ? `<a href="${pub.url}" target="_blank" class="pub-title">${pub.title}</a>`
+        : `<a class="pub-title pub-title-disabled">${pub.title}</a>`;
       const html = `
         <div class="col-lg-11 wow fadeIn" data-wow-delay="0.1s">
           <p>

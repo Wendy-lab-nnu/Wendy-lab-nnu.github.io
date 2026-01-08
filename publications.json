@@ -82,7 +82,7 @@
     "title": "Few-shot Unsupervised Domain Adaptation via Meta Learning",
     "journal": "IEEE International Conference on Multimedia and Expo (ICME), 2022",
     "year": "2022",
-    "url": "https://ieeexplore.ieee.org/document/9859804"
+    "url": ""
   },
   {
     "authors": "Shengqi Huang, Wanqi Yang*, Lei Wang, Luping Zhou, Ming Yang",
@@ -103,48 +103,48 @@
     "title": "Class distribution alignment for adversarial domain adaptation",
     "journal": "arXiv preprint arXiv:2004.09403, 2020",
     "year": "2020",
-    "url": "https://arxiv.org/abs/2004.09403"
+    "url": ""
   },
   {
     "authors": "Ziqi Zhou, Xinna Guo, Wanqi Yang*, Yinghuan Shi, Luping Zhou, Lei Wang, Ming Yang",
     "title": "Cross-modal attention-guided convolutional network for multi-modal cardiac segmentation",
     "journal": "Machine Learning in Medical Imaging: 10th International Workshop (MLMI), 2019: 601–610",
     "year": "2019",
-    "url": "https://link.springer.com/chapter/10.1007/978-3-030-32692-0_69"
+    "url": ""
   },
   {
     "authors": "Wanqi Yang, Yinghuan Shi, Yang Gao, Ming Yang",
     "title": "Online multi-view subspace learning via group structure analysis for visual object tracking",
     "journal": "Distributed and Parallel Databases, 2018, 36: 485–509",
     "year": "2018",
-    "url": "https://link.springer.com/article/10.1007/s10619-018-7227-3"
+    "url": ""
   },
   {
     "authors": "Aishi Li, Ming Yang, Wanqi Yang",
     "title": "Feature Integration with Adaptive Importance Maps for Visual Tracking",
     "journal": "IJCAI, 2018: 779–785",
     "year": "2018",
-    "url": "https://www.ijcai.org/proceedings/2018/108"
+    "url": ""
   },
   {
     "authors": "Wanqi Yang, Yinghuan Shi, Yang Gao, Lei Wang, Ming Yang",
     "title": "Incomplete Data-oriented Multi-view Dimension Reduction via Sparse Low Rank Representation",
     "journal": "IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2018, 29(12): 6276–6291",
     "year": "2018",
-    "url": "https://ieeexplore.ieee.org/document/8360747"
+    "url": ""
   },
   {
     "authors": "Wanqi Yang, Yang Gao, Yinghuan Shi, Longbing Cao",
     "title": "MRM-Lasso: A Sparse Multi-view Feature Selection Method via Low-rank Analysis",
     "journal": "IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2015, 26(11): 2801–2815",
     "year": "2015",
-    "url": "https://ieeexplore.ieee.org/document/7045574"
+    "url": ""
   },
   {
     "authors": "Wanqi Yang, Yang Gao, Longbing Cao",
     "title": "TRASMIL: A local anomaly detection framework based on trajectory segmentation and multi-instance learning",
     "journal": "Computer Vision and Image Understanding, 2013, 117(10): 1273–1286",
     "year": "2013",
-    "url": "https://www.sciencedirect.com/science/article/pii/S1077314212001658"
+    "url": ""
   }
 ]
