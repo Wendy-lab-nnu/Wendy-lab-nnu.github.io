@@ -1,31 +1,39 @@
 [
-  {
-    "authors": "Wanqi Yang, Haoran Wang, Wei Wang, Lei Wang, Ge Song, Ming Yang, Yang Gao",
-    "title": "E2MPL: An Enduring and Efficient Meta Prompt Learning Framework for Few-Shot Unsupervised Domain Adaptation",
-    "journal": "IEEE Transactions on Image Processing (TIP), 2025, 34: 8656 - 8671.",
-    "year": "2025",
-    "url": "https://arxiv.org/abs/2407.04066"
-  },
+
   {
     "authors": "Like Xin, Wanqi Yang*, Lei Wang, Ming Yang*",
     "title": "Global-and-local guidance with synthesized view for unpaired multi-view clustering",
     "journal": "Information Processing and Management, 2026: 104502.",
     "year": "2026",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0306457325004431?via%3Dihub"
+    "url": "https://www.sciencedirect.com/science/article/pii/S0306457325004431"
   },
   {
     "authors": "Shaokang Dong, Chao Li, Shangdong Yang, Hongye Cao, Wanqi Yang*, Yang Gao",
     "title": "A Unified and Efficient Training Framework for Open-Ended Non-Transitive Games",
     "journal": "Neural Networks, 2026: 108248.",
     "year": "2026",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://www.sciencedirect.com/science/article/pii/S0893608025011293"
   },
   {
     "authors": "Like Xin, Wanqi Yang*, Lei Wang, Ming Yang",
     "title": "Multi-level Reliable Guidance for Unpaired Multi-view Clustering",
     "journal": "IEEE Transactions on Neural Networks and Learning Systems; 2025, 36(10):18968-18982.",
     "year": "2025",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11082105"
+  },
+  {
+    "authors": "Wanqi Yang, Haoran Wang, Wei Wang, Lei Wang, Ge Song, Ming Yang, Yang Gao",
+    "title": "E2MPL: An Enduring and Efficient Meta Prompt Learning Framework for Few-Shot Unsupervised Domain Adaptation",
+    "journal": "IEEE Transactions on Image Processing (TIP), 2025, 34: 8656 - 8671.",
+    "year": "2025",
+    "url": "https://ieeexplore.ieee.org/document/11313774"
+  },
+  {
+    "authors": "Kaixiang Wang, Xiaojian Ding, Wanqi Yang*, Ming Yang",
+    "title": "Label-Semantics-Guided Multi-View Multi-Label Learning via High-Order Semantic Fusion",
+    "journal": "Proceedings of the 33rd ACM International Conference on Multimedia (ACMMM); 2025, 2372-2380.",
+    "year": "2025",
+    "url": "https://dl.acm.org/doi/10.1145/3746027.3754790"
   },
   {
     "authors": "Like Xin, Wanqi Yang*, Lei Wang, Ming Yang*",
@@ -46,104 +54,97 @@
     "title": "Beyond Mandatory Federations: Balancing Egoism, Utilitarianism and Egalitarianism in Mixed-Motive Games",
     "journal": "AAAI 2025",
     "year": "2025",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33794"
   },
   {
     "authors": "Wanqi Yang, Like Xin, Lei Wang, Ming Yang",
     "title": "Iterative multiview subspace learning for unpaired multiview clustering",
     "journal": "IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(10): 14848–14862",
     "year": "2024",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://ieeexplore.ieee.org/document/10149819"
   },
   {
     "authors": "Yumeng Tang, Wanqi Yang*, Yuquan Xie, Ming Yang",
     "title": "Domain adaptive knowledge tracing",
     "journal": "International Journal of Machine Learning and Cybernetics, 2024, 15: 5129–5142",
     "year": "2024",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://link.springer.com/article/10.1007/s13042-024-02219-y"
   },
   {
     "authors": "Lei Yu, Wanqi Yang*, Shengqi Huang, Lei Wang, Ming Yang",
     "title": "High-level Semantic Feature Matters Few-shot Unsupervised Domain Adaptation",
     "journal": "AAAI Conference on Artificial Intelligence (AAAI), 2023, 37(9): 11025–11033",
     "year": "2023",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://dl.acm.org/doi/10.1609/aaai.v37i9.26306"
   },
   {
     "authors": "Wanqi Yang, Chengmei Yang, Shengqi Huang, Lei Wang, Ming Yang",
     "title": "Few-shot Unsupervised Domain Adaptation via Meta Learning",
     "journal": "IEEE International Conference on Multimedia and Expo (ICME), 2022",
     "year": "2022",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://ieeexplore.ieee.org/document/9859804"
   },
   {
     "authors": "Shengqi Huang, Wanqi Yang*, Lei Wang, Luping Zhou, Ming Yang",
     "title": "Few-shot Unsupervised Domain Adaptation with Image-to-class Sparse Similarity Encoding",
     "journal": "ACM International Conference on Multimedia (ACMMM), 2021: 677–685",
     "year": "2021",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://ieeexplore.ieee.org/document/9859804/"
   },
   {
     "authors": "Wanqi Yang, Yinghuan Shi, Sang Hyun Park, Ming Yang, Yang Gao, Dinggang Shen",
     "title": "An Effective MR-guided CT Network Training for Segmenting Prostate in CT Images",
     "journal": "IEEE Journal of Biomedical and Health Informatics (JBHI), 2020, 24(8): 2278–2291",
     "year": "2020",
-    "url": "https://arxiv.org/pdf/2407.01247"
-  },
-  {
-    "authors": "Wanqi Yang, Haoran Wang, Lei Wang, Ge Song, Yang Gao",
-    "title": "E2MPL: An Enduring and Efficient Meta Prompt Learning Framework for Few-shot Unsupervised Domain Adaptation",
-    "journal": "arXiv preprint arXiv:2407.04066, 2024",
-    "year": "2024",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31841426/"
   },
   {
     "authors": "Wanqi Yang, Tong Ling, Chengmei Yang, Lei Wang, Yinghuan Shi, Luping Zhou, Ming Yang",
     "title": "Class distribution alignment for adversarial domain adaptation",
     "journal": "arXiv preprint arXiv:2004.09403, 2020",
     "year": "2020",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://arxiv.org/abs/2004.09403"
   },
   {
     "authors": "Ziqi Zhou, Xinna Guo, Wanqi Yang*, Yinghuan Shi, Luping Zhou, Lei Wang, Ming Yang",
     "title": "Cross-modal attention-guided convolutional network for multi-modal cardiac segmentation",
     "journal": "Machine Learning in Medical Imaging: 10th International Workshop (MLMI), 2019: 601–610",
     "year": "2019",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://link.springer.com/chapter/10.1007/978-3-030-32692-0_69"
   },
   {
     "authors": "Wanqi Yang, Yinghuan Shi, Yang Gao, Ming Yang",
     "title": "Online multi-view subspace learning via group structure analysis for visual object tracking",
     "journal": "Distributed and Parallel Databases, 2018, 36: 485–509",
     "year": "2018",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://link.springer.com/article/10.1007/s10619-018-7227-3"
   },
   {
     "authors": "Aishi Li, Ming Yang, Wanqi Yang",
     "title": "Feature Integration with Adaptive Importance Maps for Visual Tracking",
     "journal": "IJCAI, 2018: 779–785",
     "year": "2018",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://www.ijcai.org/proceedings/2018/108"
   },
   {
     "authors": "Wanqi Yang, Yinghuan Shi, Yang Gao, Lei Wang, Ming Yang",
     "title": "Incomplete Data-oriented Multi-view Dimension Reduction via Sparse Low Rank Representation",
     "journal": "IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2018, 29(12): 6276–6291",
     "year": "2018",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://ieeexplore.ieee.org/document/8360747"
   },
   {
     "authors": "Wanqi Yang, Yang Gao, Yinghuan Shi, Longbing Cao",
     "title": "MRM-Lasso: A Sparse Multi-view Feature Selection Method via Low-rank Analysis",
     "journal": "IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2015, 26(11): 2801–2815",
     "year": "2015",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://ieeexplore.ieee.org/document/7045574"
   },
   {
     "authors": "Wanqi Yang, Yang Gao, Longbing Cao",
     "title": "TRASMIL: A local anomaly detection framework based on trajectory segmentation and multi-instance learning",
     "journal": "Computer Vision and Image Understanding, 2013, 117(10): 1273–1286",
     "year": "2013",
-    "url": "https://arxiv.org/pdf/2407.01247"
+    "url": "https://www.sciencedirect.com/science/article/pii/S1077314212001658"
   }
 ]
