@@ -123,13 +123,24 @@ fetch('publications.json')
   .then(data => {
     const container = document.getElementById("publication-list");
     data.forEach(pub => {
+
       const titleLine = pub.url
         ? `<a href="${pub.url}" target="_blank" class="pub-title">${pub.title}</a>`
         : `<a class="pub-title pub-title-disabled">${pub.title}</a>`;
+
+      const codeLine = pub.code_url
+        ? ` <a href="${pub.code_url}" target="_blank"
+               style="font-size:0.88em; color:#4a6fa5; text-decoration:none;"
+               onmouseover="this.style.color='#0d6efd'"
+               onmouseout="this.style.color='#4a6fa5'">
+               [Code]
+             </a>`
+        : ``;
+
       const html = `
         <div class="col-lg-11 wow fadeIn" data-wow-delay="0.1s">
           <p>
-            ${titleLine}<br>
+            ${titleLine}${codeLine}<br>
             ${pub.authors}<br>
             ${pub.journal}
           </p>

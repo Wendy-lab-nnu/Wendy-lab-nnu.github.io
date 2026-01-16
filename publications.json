@@ -5,7 +5,8 @@
     "title": "Global-and-local guidance with synthesized view for unpaired multi-view clustering",
     "journal": "Information Processing and Management, 2026: 104502.",
     "year": "2026",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0306457325004431"
+    "url": "https://www.sciencedirect.com/science/article/pii/S0306457325004431",
+    "code_url": "https://github.com/LikeXin94/GLANCE"
   },
   {
     "authors": "Shaokang Dong, Chao Li, Shangdong Yang, Hongye Cao, Wanqi Yang*, Yang Gao",
@@ -19,7 +20,8 @@
     "title": "Multi-level Reliable Guidance for Unpaired Multi-view Clustering",
     "journal": "IEEE Transactions on Neural Networks and Learning Systems; 2025, 36(10):18968-18982.",
     "year": "2025",
-    "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11082105"
+    "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11082105",
+    "code_url": "https://github.com/LikeXin94/MRG-UMC"
   },
   {
     "authors": "Wanqi Yang, Haoran Wang, Wei Wang, Lei Wang, Ge Song, Ming Yang, Yang Gao",
@@ -47,7 +49,8 @@
     "title": "Unpaired Multiview Clustering via Reliable View Guidance",
     "journal": "IEEE Transactions on Neural Networks and Learning Systems, 2025, 36(6): 11443–11455",
     "year": "2025",
-    "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10745770"
+    "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10745770",
+    "code_url": "https://github.com/LikeXin94/RG-RGs-UMC"
   },
   {
     "authors": "Shaokang Dong, Chao Li, Shangdong Yang, Hongye Cao, Wanqi Yang*, Yang Gao",
